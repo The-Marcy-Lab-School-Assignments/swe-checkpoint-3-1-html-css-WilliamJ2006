@@ -64,7 +64,7 @@ nav {
   flex-direction: column;
   align-items: center;
   gap: 40px;
-  padding-top:40px;
+  padding-top: 40px;
 }
 
 #profile>figure>img {
@@ -129,6 +129,7 @@ nav {
     padding: 40px;
     justify-content: center;
   }
+
   #profile>figure {
     display: flex;
     flex-direction: row;
@@ -137,5 +138,4 @@ nav {
   #profile {
     margin: auto;
   }
-
 }
