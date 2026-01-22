@@ -20,7 +20,7 @@ img {
 #top {
   display: flex;
   align-items: center;
-  border-bottom: 3px solid gray;
+  border-bottom: 2.5px solid rgb(55, 55, 55);
 }
 
 body {
