@@ -44,12 +44,12 @@ nav {
   padding: 10px;
 }
 
-.topLinks>li>a {
+a {
   color: white;
   text-decoration: none;
 }
 
-.topLinks>li>a:hover {
+a:hover {
   color: white;
   text-decoration: underline;
 }
@@ -100,6 +100,15 @@ nav {
   display: flex;
   flex-direction: row;
   gap: 10px;
+}
+
+footer {
+  border-top: 2.5px solid rgb(55, 55, 55);
+}
+
+footer>p {
+  text-align: center;
+  padding: 10px;
 }
 
 @media (min-width: 768px) {
